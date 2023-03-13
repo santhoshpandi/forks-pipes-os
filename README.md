@@ -10,7 +10,7 @@ Here
 
 2. Armstrong number
 
-3.wordcount,charcount,linecount
+ 3.wordcount,charcount,linecount
 
 
 This program only runs in linux os 
